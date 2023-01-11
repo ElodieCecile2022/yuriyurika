@@ -5,13 +5,14 @@
 //  Created by Elodie Iparraguirre on 11/01/23.
 //
 
+
 import SwiftUI
 
 @main
-struct yuriyurikaApp: App {
+struct Yuri_YurikaApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Example1()
         }
     }
 }
