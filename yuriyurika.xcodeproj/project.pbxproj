@@ -12,6 +12,10 @@
 		1B2486D7296EC1050073671F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1B2486D6296EC1050073671F /* Assets.xcassets */; };
 		1B2486DA296EC1050073671F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1B2486D9296EC1050073671F /* Preview Assets.xcassets */; };
 		1B2486E1296EC1FE0073671F /* Example1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B2486E0296EC1FE0073671F /* Example1.swift */; };
+		96B294D0297030CD006B0308 /* Lesson.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96B294CF297030CD006B0308 /* Lesson.swift */; };
+		96B294D2297030F0006B0308 /* LinearProgressDemoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96B294D1297030F0006B0308 /* LinearProgressDemoView.swift */; };
+		96B294D429703132006B0308 /* StoreLessons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96B294D329703132006B0308 /* StoreLessons.swift */; };
+		96B294D62970317C006B0308 /* LessonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96B294D52970317C006B0308 /* LessonView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +25,10 @@
 		1B2486D6296EC1050073671F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1B2486D9296EC1050073671F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1B2486E0296EC1FE0073671F /* Example1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Example1.swift; sourceTree = "<group>"; };
+		96B294CF297030CD006B0308 /* Lesson.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson.swift; sourceTree = "<group>"; };
+		96B294D1297030F0006B0308 /* LinearProgressDemoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinearProgressDemoView.swift; sourceTree = "<group>"; };
+		96B294D329703132006B0308 /* StoreLessons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoreLessons.swift; sourceTree = "<group>"; };
+		96B294D52970317C006B0308 /* LessonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LessonView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +64,10 @@
 				1B2486D2296EC1040073671F /* yuriyurikaApp.swift */,
 				1B2486D4296EC1040073671F /* ContentView.swift */,
 				1B2486E0296EC1FE0073671F /* Example1.swift */,
+				96B294D52970317C006B0308 /* LessonView.swift */,
+				96B294D329703132006B0308 /* StoreLessons.swift */,
+				96B294CF297030CD006B0308 /* Lesson.swift */,
+				96B294D1297030F0006B0308 /* LinearProgressDemoView.swift */,
 				1B2486D6296EC1050073671F /* Assets.xcassets */,
 				1B2486D8296EC1050073671F /* Preview Content */,
 			);
@@ -140,9 +152,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				96B294D62970317C006B0308 /* LessonView.swift in Sources */,
 				1B2486D5296EC1040073671F /* ContentView.swift in Sources */,
+				96B294D2297030F0006B0308 /* LinearProgressDemoView.swift in Sources */,
 				1B2486E1296EC1FE0073671F /* Example1.swift in Sources */,
 				1B2486D3296EC1040073671F /* yuriyurikaApp.swift in Sources */,
+				96B294D0297030CD006B0308 /* Lesson.swift in Sources */,
+				96B294D429703132006B0308 /* StoreLessons.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
