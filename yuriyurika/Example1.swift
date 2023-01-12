@@ -24,10 +24,12 @@ struct Example1: View {
         ScrollView(.horizontal,showsIndicators : false) {
             HStack {
                 
+                
                 VStack {
                     Menu(/*@START_MENU_TOKEN@*/"Menu"/*@END_MENU_TOKEN@*/) {
                         Text("Lesson 1")
                         Text("Lesson 2")
+                        
                         Text("Lesson 3")
                     }
                     
@@ -43,7 +45,7 @@ struct Example1: View {
                                 .background(.blue)*/
                             LessonView(lesson: lesson)
                             }
-                        .frame(height:350)
+                        .frame(height:1000)
                         }
                     }
                 }
