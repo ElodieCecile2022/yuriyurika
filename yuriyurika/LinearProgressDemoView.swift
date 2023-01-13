@@ -9,6 +9,11 @@ import SwiftUI
 
 struct LinearProgressDemoView: View {
     @State private var progress = 0.5
+
+    var body: some View {
+        Text("Demo View")
+    }
+
 }
 
 struct LinearProgressDemoView_Previews: PreviewProvider {

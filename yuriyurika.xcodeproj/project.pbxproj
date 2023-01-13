@@ -16,6 +16,7 @@
 		1BF9617B29701AD7000F8160 /* LessonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BF9617A29701AD7000F8160 /* LessonView.swift */; };
 		1BF9617D29701BAA000F8160 /* Lesson.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BF9617C29701BAA000F8160 /* Lesson.swift */; };
 		1BF9617F29701C37000F8160 /* StoreLessons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BF9617E29701C37000F8160 /* StoreLessons.swift */; };
+		96B294D2297030F0006B0308 /* LinearProgressDemoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96B294D1297030F0006B0308 /* LinearProgressDemoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		1BF9617A29701AD7000F8160 /* LessonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LessonView.swift; sourceTree = "<group>"; };
 		1BF9617C29701BAA000F8160 /* Lesson.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson.swift; sourceTree = "<group>"; };
 		1BF9617E29701C37000F8160 /* StoreLessons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoreLessons.swift; sourceTree = "<group>"; };
+		96B294D1297030F0006B0308 /* LinearProgressDemoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinearProgressDemoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				1BF9617C29701BAA000F8160 /* Lesson.swift */,
 				1BF9617E29701C37000F8160 /* StoreLessons.swift */,
 				1BF9617A29701AD7000F8160 /* LessonView.swift */,
+				96B294D1297030F0006B0308 /* LinearProgressDemoView.swift */,
 				1B2486D6296EC1050073671F /* Assets.xcassets */,
 				1B2486D8296EC1050073671F /* Preview Content */,
 				1B2486E8296ED8250073671F /* VIEW1.swift */,
@@ -158,6 +161,7 @@
 				1BF9617B29701AD7000F8160 /* LessonView.swift in Sources */,
 				1BF9617D29701BAA000F8160 /* Lesson.swift in Sources */,
 				1B2486E9296ED8250073671F /* VIEW1.swift in Sources */,
+				96B294D2297030F0006B0308 /* LinearProgressDemoView.swift in Sources */,
 				1B2486D3296EC1040073671F /* yuriyurikaApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
